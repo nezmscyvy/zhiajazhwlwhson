@@ -1,0 +1,37 @@
+{
+  "name": "MIKAEL-XD",
+  "description": "A lightning-fast WhatsApp bot with multi-device support, built on Node.js & Baileys.",
+  "website": "https://github.com/musicopilotvf456-eng/mikael-xd-#readme",
+  "repository": "https://github.com/musicopilotvf456-eng/mikael-xd-.git",
+  "logo": "https://imgur.com/a/X01jxfB",
+  "success_url": "/",
+
+  "env": {
+    "SESSION": {
+      "description": "Required – Your WhatsApp session ID (generated after linking the bot).",
+      "required": true
+    }
+  },
+
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "description": "Free PostgreSQL database for storing bot data."
+    }
+  ],
+
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs",
+      "description": "Node.js runtime for running the bot."
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git",
+      "description": "WebP support for image processing."
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest",
+      "description": "FFmpeg for audio/video processing."
+    }
+  ]
+}
