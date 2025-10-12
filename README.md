@@ -56,6 +56,12 @@
   <a href="/">
     <img src="https://img.shields.io/badge/Launch--Katabump-orange?style=for-the-badge&logo=katabump" alt="Deploy on katabump">
   </a>
+<a href="/">
+    <img src="https://img.shields.io/badge/Launch--Back4App-violet?style=for-the-badge&logo=Back4App" alt="Deploy on Back4App">
+  </a>
+<a href="/">
+    <img src="https://img.shields.io/badge/Launch--Digital_ocean-rose?style=for-the-badge&logo=Digital-ocean" alt="Deploy on Digital-ocean">
+  </a>
 </p>
 ---
 
