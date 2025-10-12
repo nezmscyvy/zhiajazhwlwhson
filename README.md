@@ -25,27 +25,38 @@
 
 2. **Pair Code / Session Setup**  
    <p align="center">
-     <a href="https://xdpair2-cd347de7366b.herokuapp.com/">
+     <a href="/">
        <img src="https://img.shields.io/badge/Get-Session--ID-green?style=for-the-badge" alt="Session ID">
      </a>
    </p>
 
 3. **Deployment Platforms**  
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/giftdee/DAVE-XD">
+  <a href="/">
     <img src="https://img.shields.io/badge/Launch--Heroku-blue?style=for-the-badge&logo=heroku" alt="Deploy DAVE-XD">
   </a>
-  <a href="https://render.com/deploy?repo=https://github.com/giftdee/DAVE-XD">
+  <a href="/">
     <img src="https://img.shields.io/badge/Launch--Render-orange?style=for-the-badge&logo=render" alt="Deploy on Render">
   </a>
-  <a href="https://railway.app/new/template?template=https://github.com/giftdee/DAVE-XD">
+  <a href="/">
     <img src="https://img.shields.io/badge/Launch--Railway-red?style=for-the-badge&logo=railway" alt="Deploy on Railway">
   </a>
-  <a href="https://app.koyeb.com/deploy?repository=https://github.com/giftdee/DAVE-XD">
+  <a href="/">
     <img src="https://img.shields.io/badge/Launch--Koyeb-yellow?style=for-the-badge&logo=koyeb" alt="Deploy on Koyeb">
   </a>
+<a href="/">
+    <img src="https://img.shields.io/badge/Launch--bot_hosting-green?style=for-the-badge&logo=bot-hosting" alt="Deploy on bot-hosting">
+  </a>
+  <a href="/">
+    <img src="https://img.shields.io/badge/Launch--Firebase-red?style=for-the-badge&logo=fire" alt="Deploy on Fire-base">
+  </a>
+  <a href="/">
+    <img src="https://img.shields.io/badge/Launch--fly.io-white?style=for-the-badge&logo=fly.io" alt="Deploy on fly">
+  </a>
+  <a href="/">
+    <img src="https://img.shields.io/badge/Launch--Katabump-orange?style=for-the-badge&logo=katabump" alt="Deploy on katabump">
+  </a>
 </p>
-
 ---
 
 ## 📥 Download ZIP
@@ -68,7 +79,7 @@
 <p align="center">© 2025 Mikael Tech - MIKAEL-XD</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MADE%20BY-Milael-blueviolet?style=for-the-badge&logo=github" style="border-radius: 50%;">
+  <img src="https://img.shields.io/badge/MADE%20BY-Mikael-blueviolet?style=for-the-badge&logo=github" style="border-radius: 50%;">
   <img src="https://img.shields.io/badge/VERSION-1.0.0-green?style=for-the-badge&logo=npm" style="border-radius: 50%;">
   <img src="https://img.shields.io/badge/BOT%20POWER-🔥%20100%25-red?style=for-the-badge" style="border-radius: 50%;">
 </p>
