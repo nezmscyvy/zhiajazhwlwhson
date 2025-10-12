@@ -62,6 +62,12 @@
 <a href="/">
     <img src="https://img.shields.io/badge/Launch--Digital_ocean-rose?style=for-the-badge&logo=Digital-ocean" alt="Deploy on Digital-ocean">
   </a>
+<a href="/">
+    <img src="https://img.shields.io/badge/Launch--TURBO.NET-yellow?style=for-the-badge&logo=TURBO.NET" alt="Deploy on TURBO.NET">
+  </a>
+<a href="/">
+    <img src="https://img.shields.io/badge/Launch--vercel-blue?style=for-the-badge&logo=vercel" alt="Deploy on vercel">
+  </a>
 </p>
 ---
 
